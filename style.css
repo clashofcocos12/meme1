@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-transform: capitalize;
+    
+}
+#img {
+    border: 5px solid white;
+    margin-top: 40px;
+}
+#first {  
+    font-family:'Libre Baskerville',static ;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
